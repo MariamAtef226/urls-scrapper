@@ -11,7 +11,7 @@ A tool for extracting the URLs from either of www.curlie.org or www.wikipedia.or
 
 ### Included Files 📂
 
-- main.py   _Bare Script_
+- scrapperScript.py   _Bare Script_
 - gui.py    _GUI version for the tool_
 
 ### Used Programming Language 💻
